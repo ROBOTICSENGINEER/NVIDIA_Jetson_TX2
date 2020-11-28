@@ -1,6 +1,6 @@
 # NVIDIA_Jetson_TX2
 
-
+NVIDIA Jetson code example in C++ and Python 3
 
 # License
 
